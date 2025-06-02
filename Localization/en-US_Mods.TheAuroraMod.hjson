@@ -1,0 +1,6 @@
+Items: {
+	ChainlinkFence: {
+		Tooltip: ""
+		DisplayName: Chainlink Fence
+	}
+}
