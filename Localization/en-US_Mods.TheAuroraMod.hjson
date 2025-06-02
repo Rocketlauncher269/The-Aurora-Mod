@@ -1,6 +1,11 @@
 Items: {
 	ChainlinkFence: {
+		DisplayName: Chain-link Fence
 		Tooltip: ""
-		DisplayName: Chainlink Fence
+	}
+
+	ChainlinkFenceWithSnow: {
+		DisplayName: Chain-link Fence (Snow)
+		Tooltip: ""
 	}
 }
